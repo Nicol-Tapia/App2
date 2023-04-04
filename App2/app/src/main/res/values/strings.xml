@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">App2</string>
+    <string name="lista_de_productos">Lista de productos</string>
+    <string name="mercader_a">Mercadería</string>
+    <string name="conservas">Conservas</string>
+    <string name="higiene">Higiene</string>
+    <string name="qu_producto_le_gustar_a_agregar">¿Qué producto le gustaría agregar?</string>
+    <string name="nombre_usuario">Nombre Usuario</string>
+    <string name="ingresar">ingresar</string>
+    <string name="sal">Sal</string>
+    <string name="palta">Palta</string>
+    <string name="yogurth">Yogurth</string>
+    <string name="galletas">Galletas</string>
+    <string name="queso">Queso</string>
+    <string name="mercader_aa">Mercadería</string>
+    <string name="arroz">Arroz</string>
+    <string name="tallarines">Tallarines</string>
+    <string name="leche">Leche</string>
+    <string name="salsa_de_tomate">Salsa de tomate</string>
+    <string name="cereales">Cereales</string>
+    <string name="az_zar">Azúzar</string>
+    <string name="agregar_producto">Agregar producto</string>
+    <string name="registrar_nuevo_producto">Registrar nuevo producto</string>
+    <string name="nombre">Nombre</string>
+    <string name="lugar_compra">Lugar compra</string>
+    <string name="cantidad">Cantidad</string>
+    <string name="precio">Precio</string>
+    <string name="guardar">Guardar</string>
+</resources>
